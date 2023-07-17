@@ -221,6 +221,9 @@ Java_com_boolbird_keepalive_NativeKeepAlive_doDaemon(JNIEnv *env, jobject jobj,
         return;
     }
 
+    LOGE("Java_com_boolbird_keepalive_NativeKeepAlive_doDaemon!");
+
+
     uint32_t transact_code = 0;
     switch (sdk_version) {
         case 26:

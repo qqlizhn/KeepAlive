@@ -23,6 +23,8 @@ android {
         abortOnError false
     }
 
+    android.ndkVersion "21.4.7075529"
+
 }
 
 dependencies {
