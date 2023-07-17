@@ -1,3 +1,5 @@
+# test for xiaomi 12 android 13 无效
+# test for 华为 无效
 # KeepAlive
 KeepAlive是在[Leoric](https://github.com/tiann/Leoric)(通过JNI复活进程)的基础上，实现了通过ioctl复活进程，能最大程度提高复活率。
 
